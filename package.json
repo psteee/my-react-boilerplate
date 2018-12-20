@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "A.Bottini",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psteee/my-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/psteee/my-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/psteee/my-react-boilerplate#readme"
 }
